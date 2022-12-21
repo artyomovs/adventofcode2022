@@ -24,6 +24,10 @@ pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
+*input.txt
+*inputs.txt
+input.txt
+inputs.txt
 *.egg
 MANIFEST
 
